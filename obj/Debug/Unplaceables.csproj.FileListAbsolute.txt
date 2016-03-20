@@ -1,0 +1,12 @@
+C:\Users\Looh\Desktop\Unplaceables\bin\Release\Unplaceables.dll
+C:\Users\Looh\Desktop\Unplaceables\bin\Release\Unplaceables.pdb
+C:\Users\Looh\Desktop\Unplaceables\bin\Release\TerrariaServer.exe
+C:\Users\Looh\Desktop\Unplaceables\bin\Release\TShockAPI.dll
+C:\Users\Looh\Desktop\Unplaceables\bin\Release\Newtonsoft.Json.dll
+C:\Users\Looh\Desktop\Unplaceables\bin\Release\MySql.Data.dll
+C:\Users\Looh\Desktop\Unplaceables\bin\Release\HttpServer.dll
+C:\Users\Looh\Desktop\Unplaceables\bin\Release\BCrypt.Net.dll
+C:\Users\Looh\Desktop\Unplaceables\bin\Release\Mono.Data.Sqlite.dll
+C:\Users\Looh\Desktop\Unplaceables\obj\Debug\Unplaceables.csprojResolveAssemblyReference.cache
+C:\Users\Looh\Desktop\Unplaceables\obj\Debug\Unplaceables.dll
+C:\Users\Looh\Desktop\Unplaceables\obj\Debug\Unplaceables.pdb

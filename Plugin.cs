@@ -11,11 +11,11 @@ using System.IO;
 namespace Unplaceables
 {
 
-	[ApiVersion(1, 21)]
+	[ApiVersion(1, 22)]
 	public class Plugin : TerrariaPlugin
 	{
 		public override string Name { get { return "Unplaceables"; } }
-		public override string Author { get { return "Patrikk"; } }
+		public override string Author { get { return "Patrikk - Tick by Loohney"; } }
 		public override string Description { get { return "Place unplaceable tiles!"; } }
 		public override Version Version { get { return new Version(1, 0); } }
 
